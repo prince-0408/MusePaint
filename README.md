@@ -21,7 +21,9 @@ MusePaint is an interactive iOS playground that lets you create beautiful artist
 
 ## Screenshorts 📱
 ![LaunchScreen](https://github.com/user-attachments/assets/53b0e890-f753-4aa9-9e2e-113e6956e17e)
+
 ![HomeView](https://github.com/user-attachments/assets/65764697-a92f-4336-9fd6-2be5e7e8d586)
+
 ![Canvas+Setting](https://github.com/user-attachments/assets/4eca69bd-cb7a-403a-9bae-f01c139d4ef1)
 
 
